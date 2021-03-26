@@ -3,9 +3,9 @@ package main
 import "os"
 import "strings"
 import "github.com/sirupsen/logrus"
-import "github.com/slayercat/gosnmp"
-import "github.com/slayercat/GoSNMPServer"
-import "github.com/slayercat/GoSNMPServer/mibImps"
+import "github.com/gosnmp/gosnmp"
+import "github.com/efancier-cn/GoSNMPServer"
+import "github.com/efancier-cn/GoSNMPServer/mibImps"
 
 import "github.com/urfave/cli/v2"
 
